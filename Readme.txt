@@ -5,5 +5,8 @@ This repository contsins two files one for EDA and another one is for modeling .
 The inputs are avaliable in the Inputs folder and the same goes for the Outputs folder
 
 
+Incase of github not able to open the ipynb format use this link : https://nbviewer.jupyter.org/
+
+
 
 
