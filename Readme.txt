@@ -7,6 +7,10 @@ The inputs are avaliable in the Inputs folder and the same goes for the Outputs 
 
 Incase of github not able to open the ipynb format use this link : https://nbviewer.jupyter.org/
 
+EDA : 
+
+Classifier : https://nbviewer.jupyter.org/github/birnesh/Hand_written_Number_classification/blob/master/classifier.ipynb
+
 
 
 
